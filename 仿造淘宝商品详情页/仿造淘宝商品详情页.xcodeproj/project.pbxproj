@@ -1,0 +1,365 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DA0614C81CA37FDA005A1142 /* YXIgnoreHeaderTouchTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = DA0614C71CA37FDA005A1142 /* YXIgnoreHeaderTouchTableView.m */; settings = {ASSET_TAGS = (); }; };
+		DA9858F41CAA57C20078FA77 /* YXTabItemBaseView.m in Sources */ = {isa = PBXBuildFile; fileRef = DA9858F31CAA57C20078FA77 /* YXTabItemBaseView.m */; settings = {ASSET_TAGS = (); }; };
+		DAA4F9C81CA2A4B400BA9D19 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DAA4F9C71CA2A4B400BA9D19 /* main.m */; };
+		DAA4F9CB1CA2A4B400BA9D19 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DAA4F9CA1CA2A4B400BA9D19 /* AppDelegate.m */; };
+		DAA4F9CE1CA2A4B400BA9D19 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DAA4F9CD1CA2A4B400BA9D19 /* ViewController.m */; };
+		DAA4F9D11CA2A4B400BA9D19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAA4F9CF1CA2A4B400BA9D19 /* Main.storyboard */; };
+		DAA4F9D31CA2A4B400BA9D19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAA4F9D21CA2A4B400BA9D19 /* Assets.xcassets */; };
+		DAA4F9D61CA2A4B400BA9D19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAA4F9D41CA2A4B400BA9D19 /* LaunchScreen.storyboard */; };
+		DABC37061CA50D8600FAA182 /* YXTabView.m in Sources */ = {isa = PBXBuildFile; fileRef = DABC37051CA50D8600FAA182 /* YXTabView.m */; settings = {ASSET_TAGS = (); }; };
+		DABC37091CA5112200FAA182 /* YXTabTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = DABC37081CA5112200FAA182 /* YXTabTitleView.m */; settings = {ASSET_TAGS = (); }; };
+		DABC370C1CA539CC00FAA182 /* PicAndTextIntroduceView.m in Sources */ = {isa = PBXBuildFile; fileRef = DABC370B1CA539CC00FAA182 /* PicAndTextIntroduceView.m */; settings = {ASSET_TAGS = (); }; };
+		DABC370F1CA539FF00FAA182 /* ItemDetailView.m in Sources */ = {isa = PBXBuildFile; fileRef = DABC370E1CA539FF00FAA182 /* ItemDetailView.m */; settings = {ASSET_TAGS = (); }; };
+		DABC37121CA53A1300FAA182 /* CommentView.m in Sources */ = {isa = PBXBuildFile; fileRef = DABC37111CA53A1300FAA182 /* CommentView.m */; settings = {ASSET_TAGS = (); }; };
+		DABC37181CA562DD00FAA182 /* YXIgnoreHeaderTouchAndRecognizeSimultaneousTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = DABC37171CA562DD00FAA182 /* YXIgnoreHeaderTouchAndRecognizeSimultaneousTableView.m */; settings = {ASSET_TAGS = (); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		DA0614C61CA37FDA005A1142 /* YXIgnoreHeaderTouchTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YXIgnoreHeaderTouchTableView.h; sourceTree = "<group>"; };
+		DA0614C71CA37FDA005A1142 /* YXIgnoreHeaderTouchTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YXIgnoreHeaderTouchTableView.m; sourceTree = "<group>"; };
+		DA9858F11CAA532A0078FA77 /* YX.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YX.h; sourceTree = "<group>"; };
+		DA9858F21CAA57C20078FA77 /* YXTabItemBaseView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YXTabItemBaseView.h; sourceTree = "<group>"; };
+		DA9858F31CAA57C20078FA77 /* YXTabItemBaseView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YXTabItemBaseView.m; sourceTree = "<group>"; };
+		DAA4F9C31CA2A4B400BA9D19 /* 仿造淘宝商品详情页.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "仿造淘宝商品详情页.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DAA4F9C71CA2A4B400BA9D19 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DAA4F9C91CA2A4B400BA9D19 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		DAA4F9CA1CA2A4B400BA9D19 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		DAA4F9CC1CA2A4B400BA9D19 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		DAA4F9CD1CA2A4B400BA9D19 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		DAA4F9D01CA2A4B400BA9D19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DAA4F9D21CA2A4B400BA9D19 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DAA4F9D51CA2A4B400BA9D19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DAA4F9D71CA2A4B400BA9D19 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DABC37041CA50D8600FAA182 /* YXTabView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YXTabView.h; sourceTree = "<group>"; };
+		DABC37051CA50D8600FAA182 /* YXTabView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YXTabView.m; sourceTree = "<group>"; };
+		DABC37071CA5112200FAA182 /* YXTabTitleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YXTabTitleView.h; sourceTree = "<group>"; };
+		DABC37081CA5112200FAA182 /* YXTabTitleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YXTabTitleView.m; sourceTree = "<group>"; };
+		DABC370A1CA539CC00FAA182 /* PicAndTextIntroduceView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicAndTextIntroduceView.h; sourceTree = "<group>"; };
+		DABC370B1CA539CC00FAA182 /* PicAndTextIntroduceView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicAndTextIntroduceView.m; sourceTree = "<group>"; };
+		DABC370D1CA539FF00FAA182 /* ItemDetailView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ItemDetailView.h; sourceTree = "<group>"; };
+		DABC370E1CA539FF00FAA182 /* ItemDetailView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemDetailView.m; sourceTree = "<group>"; };
+		DABC37101CA53A1300FAA182 /* CommentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommentView.h; sourceTree = "<group>"; };
+		DABC37111CA53A1300FAA182 /* CommentView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommentView.m; sourceTree = "<group>"; };
+		DABC37161CA562DD00FAA182 /* YXIgnoreHeaderTouchAndRecognizeSimultaneousTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YXIgnoreHeaderTouchAndRecognizeSimultaneousTableView.h; sourceTree = "<group>"; };
+		DABC37171CA562DD00FAA182 /* YXIgnoreHeaderTouchAndRecognizeSimultaneousTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YXIgnoreHeaderTouchAndRecognizeSimultaneousTableView.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DAA4F9C01CA2A4B400BA9D19 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DA0614C51CA37F9C005A1142 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				DA0614C61CA37FDA005A1142 /* YXIgnoreHeaderTouchTableView.h */,
+				DA0614C71CA37FDA005A1142 /* YXIgnoreHeaderTouchTableView.m */,
+				DABC37041CA50D8600FAA182 /* YXTabView.h */,
+				DABC37051CA50D8600FAA182 /* YXTabView.m */,
+				DABC37071CA5112200FAA182 /* YXTabTitleView.h */,
+				DABC37081CA5112200FAA182 /* YXTabTitleView.m */,
+				DABC370A1CA539CC00FAA182 /* PicAndTextIntroduceView.h */,
+				DABC370B1CA539CC00FAA182 /* PicAndTextIntroduceView.m */,
+				DABC370D1CA539FF00FAA182 /* ItemDetailView.h */,
+				DABC370E1CA539FF00FAA182 /* ItemDetailView.m */,
+				DABC37101CA53A1300FAA182 /* CommentView.h */,
+				DABC37111CA53A1300FAA182 /* CommentView.m */,
+				DABC37161CA562DD00FAA182 /* YXIgnoreHeaderTouchAndRecognizeSimultaneousTableView.h */,
+				DABC37171CA562DD00FAA182 /* YXIgnoreHeaderTouchAndRecognizeSimultaneousTableView.m */,
+				DA9858F11CAA532A0078FA77 /* YX.h */,
+				DA9858F21CAA57C20078FA77 /* YXTabItemBaseView.h */,
+				DA9858F31CAA57C20078FA77 /* YXTabItemBaseView.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		DAA4F9BA1CA2A4B400BA9D19 = {
+			isa = PBXGroup;
+			children = (
+				DAA4F9C51CA2A4B400BA9D19 /* 仿造淘宝商品详情页 */,
+				DAA4F9C41CA2A4B400BA9D19 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DAA4F9C41CA2A4B400BA9D19 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DAA4F9C31CA2A4B400BA9D19 /* 仿造淘宝商品详情页.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DAA4F9C51CA2A4B400BA9D19 /* 仿造淘宝商品详情页 */ = {
+			isa = PBXGroup;
+			children = (
+				DA0614C51CA37F9C005A1142 /* View */,
+				DAA4F9C91CA2A4B400BA9D19 /* AppDelegate.h */,
+				DAA4F9CA1CA2A4B400BA9D19 /* AppDelegate.m */,
+				DAA4F9CC1CA2A4B400BA9D19 /* ViewController.h */,
+				DAA4F9CD1CA2A4B400BA9D19 /* ViewController.m */,
+				DAA4F9CF1CA2A4B400BA9D19 /* Main.storyboard */,
+				DAA4F9D21CA2A4B400BA9D19 /* Assets.xcassets */,
+				DAA4F9D41CA2A4B400BA9D19 /* LaunchScreen.storyboard */,
+				DAA4F9D71CA2A4B400BA9D19 /* Info.plist */,
+				DAA4F9C61CA2A4B400BA9D19 /* Supporting Files */,
+			);
+			path = "仿造淘宝商品详情页";
+			sourceTree = "<group>";
+		};
+		DAA4F9C61CA2A4B400BA9D19 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DAA4F9C71CA2A4B400BA9D19 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DAA4F9C21CA2A4B400BA9D19 /* 仿造淘宝商品详情页 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DAA4F9DA1CA2A4B400BA9D19 /* Build configuration list for PBXNativeTarget "仿造淘宝商品详情页" */;
+			buildPhases = (
+				DAA4F9BF1CA2A4B400BA9D19 /* Sources */,
+				DAA4F9C01CA2A4B400BA9D19 /* Frameworks */,
+				DAA4F9C11CA2A4B400BA9D19 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "仿造淘宝商品详情页";
+			productName = "仿造淘宝商品详情页";
+			productReference = DAA4F9C31CA2A4B400BA9D19 /* 仿造淘宝商品详情页.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DAA4F9BB1CA2A4B400BA9D19 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+				ORGANIZATIONNAME = yixiang;
+				TargetAttributes = {
+					DAA4F9C21CA2A4B400BA9D19 = {
+						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = 2M632FEG3H;
+					};
+				};
+			};
+			buildConfigurationList = DAA4F9BE1CA2A4B400BA9D19 /* Build configuration list for PBXProject "仿造淘宝商品详情页" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DAA4F9BA1CA2A4B400BA9D19;
+			productRefGroup = DAA4F9C41CA2A4B400BA9D19 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DAA4F9C21CA2A4B400BA9D19 /* 仿造淘宝商品详情页 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DAA4F9C11CA2A4B400BA9D19 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DAA4F9D61CA2A4B400BA9D19 /* LaunchScreen.storyboard in Resources */,
+				DAA4F9D31CA2A4B400BA9D19 /* Assets.xcassets in Resources */,
+				DAA4F9D11CA2A4B400BA9D19 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DAA4F9BF1CA2A4B400BA9D19 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DABC370F1CA539FF00FAA182 /* ItemDetailView.m in Sources */,
+				DAA4F9CE1CA2A4B400BA9D19 /* ViewController.m in Sources */,
+				DA0614C81CA37FDA005A1142 /* YXIgnoreHeaderTouchTableView.m in Sources */,
+				DAA4F9CB1CA2A4B400BA9D19 /* AppDelegate.m in Sources */,
+				DABC37121CA53A1300FAA182 /* CommentView.m in Sources */,
+				DABC37181CA562DD00FAA182 /* YXIgnoreHeaderTouchAndRecognizeSimultaneousTableView.m in Sources */,
+				DAA4F9C81CA2A4B400BA9D19 /* main.m in Sources */,
+				DABC37091CA5112200FAA182 /* YXTabTitleView.m in Sources */,
+				DA9858F41CAA57C20078FA77 /* YXTabItemBaseView.m in Sources */,
+				DABC370C1CA539CC00FAA182 /* PicAndTextIntroduceView.m in Sources */,
+				DABC37061CA50D8600FAA182 /* YXTabView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		DAA4F9CF1CA2A4B400BA9D19 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DAA4F9D01CA2A4B400BA9D19 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		DAA4F9D41CA2A4B400BA9D19 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DAA4F9D51CA2A4B400BA9D19 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DAA4F9D81CA2A4B400BA9D19 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		DAA4F9D91CA2A4B400BA9D19 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DAA4F9DB1CA2A4B400BA9D19 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "仿造淘宝商品详情页/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "alibaba.---------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		DAA4F9DC1CA2A4B400BA9D19 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "仿造淘宝商品详情页/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "alibaba.---------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DAA4F9BE1CA2A4B400BA9D19 /* Build configuration list for PBXProject "仿造淘宝商品详情页" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DAA4F9D81CA2A4B400BA9D19 /* Debug */,
+				DAA4F9D91CA2A4B400BA9D19 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DAA4F9DA1CA2A4B400BA9D19 /* Build configuration list for PBXNativeTarget "仿造淘宝商品详情页" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DAA4F9DB1CA2A4B400BA9D19 /* Debug */,
+				DAA4F9DC1CA2A4B400BA9D19 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DAA4F9BB1CA2A4B400BA9D19 /* Project object */;
+}
