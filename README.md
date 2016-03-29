@@ -185,6 +185,7 @@ scrollView.contentOffset = CGPointMake(0, tabOffsetY);
 ##三、完整源码下载地址
 
 github下载地址：[https://github.com/yixiangboy/YX_UITableView_IN_UITableView](https://github.com/yixiangboy/YX_UITableView_IN_UITableView)
+如果对你有用，star一下吧。
 
 ##四、联系方式
 
